@@ -25,5 +25,10 @@ This project is part of my Data Science internship at Decode Labs.
 - report.txt
 - dataset
 
- Author
-Mehul Gupta
+- ## Week 2 - Fraud Detection ML Project
+
+- Built ML pipeline using SMOTE + Logistic Regression + Random Forest
+- Handled imbalanced dataset (3% fraud)
+- Used ROC-AUC, F1-score for evaluation
+- Generated EDA & model evaluation plots
+
