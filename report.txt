@@ -1,0 +1,37 @@
+Task 1: Understanding the Online Store Dataset
+
+This dataset is about the orders that people place on a store. It has a lot of information about what people buy, like what they ordered when they ordered it who they are, what they paid and more.
+
+The dataset is pretty big with 1200 rows and 14 columns. There are kinds of information like numbers, categories and dates.
+
+Lets look at what each column means:
+
+* Order ID is a number for each order
+
+* Date is when the order was placed
+
+* Customer ID is a number for each customer
+
+* Product is what people buy
+
+* Quantity is how things they buy
+
+* Unit Price is the price of one thing
+
+* Total Price is the cost of the order
+
+* Payment Method is how people pay
+
+* Order Status is what happens to the order after it is placed
+
+The online store dataset is useful for seeing what customers do what products are popular and how well the store is doing. We can use it to find patterns see what products are doing well and help the store make decisions about what to do next. The online store dataset helps us understand customer behavior and the online store dataset is good for understanding product demand and the online store dataset is useful, for understanding sales performance.
+
+
+
+Task 4: Data Visualization
+
+Visualizations were created to effectively communicate insights from the dataset. A bar chart was used to represent the top revenue-generating products, as it is suitable for comparing categorical data.
+
+The analysis shows that certain products contribute significantly more to revenue than others. For example, the "Chair" category generates the highest revenue, followed by products like Printer and Laptop.
+
+The choice of visualization helps in clearly identifying top-performing products and understanding sales distribution, making it easier for decision-making.
